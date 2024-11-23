@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_"},{"v":2,"key":{"googleId":1},"name":"googleId_1","background":true,"unique":true,"sparse":true},{"v":2,"key":{"steamId":1},"name":"steamId_1","background":true,"unique":true,"sparse":true}],"uuid":"f44ff6c3c2b14e83a790c78786be9a3d"}
