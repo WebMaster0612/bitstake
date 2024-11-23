@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_"},{"v":2,"key":{"name":1,"nextRunAt":1,"priority":-1,"lockedAt":1,"disabled":1},"name":"findAndLockNextJobIndex"}],"uuid":"a82cc5700d9944c6bd0f6df0f43f69f0"}
